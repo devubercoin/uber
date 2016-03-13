@@ -1,0 +1,9 @@
+Building UberCoin
+
+See doc/readme-qt.rst for instructions on building UberCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of UberCoin.
+
+See doc/build-*.txt for instructions on building ubercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of UberCoin.
